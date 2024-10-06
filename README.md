@@ -1,6 +1,6 @@
 # NASA Space Apps pitching repo
 In this repo, you will find the code we worked on for the project which contains:
-- The frontend (check the zip file on google drive)
+- The frontend
 - The model we are working on for processing the data and provide an approximation in the plot compared to actual results (You can inspect the code here and try it on the provided dataset provided by us)
 
 Dataset and code link: https://drive.google.com/file/d/1r925Y0UYYQYYmnZu0E6jv33ah_LRfFtF/view?usp=sharing
@@ -29,4 +29,4 @@ Input page:
 
 
 # Notes:
-Due to known issues on the original NASA Space Apps dataset and to save time, we have provided a dataset containing just the needed data
+Due to known issues on the original NASA Space Apps dataset and to save time, we have provided a minimized dataset containing just the needed data
