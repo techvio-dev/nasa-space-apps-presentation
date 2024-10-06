@@ -3,7 +3,8 @@ In this repo, you will find the code we worked on for the project which contains
 - The frontend (check the zip file on google drive)
 - The model we are working on for processing the data and provide an approximation in the plot compared to actual results (You can inspect the code here and try it on the provided dataset provided by us)
   
-Frontend link: https://drive.google.com/file/d/16XXjoC3vWutFgrpl-Iztnr9FW4hzkXNA/view?usp=sharing
+Frontend link: https://drive.google.com/file/d/1vj8ZqQqubTWxm7LgQjzbomm4UZ7TGvG4/view?usp=sharing
+
 Dataset and code link: https://drive.google.com/file/d/1r925Y0UYYQYYmnZu0E6jv33ah_LRfFtF/view?usp=sharing
 
 ## Front-end overview:
