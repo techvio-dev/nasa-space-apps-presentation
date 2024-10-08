@@ -7,6 +7,7 @@ In this repo, you will find the code we worked on for the project which contains
 
 # Background:
 Based on the dataset, we had a lot of noisy signals. At first sight, it can look like it's hard to predict where an earthquake can happen from the normal wave representation, however, converting that wave to a spectrogram shows an interesting thing. Most of the times, a pattern appears when there is an actual earthquake. And this is where our idea appeared, to convert the raw data given to us to a spectrogram that can make it easier to the end-user or the researcher or even a model to detect where an earthquake can happen. We were able to do this by applying Fast Fourier Transform (FFT) on the wave which returns the interesting parts.
+
 This on its own saves bandwidth and power since we return the minimum data possible that are useful. Other features involves the ability to edit padding, waves sensitivity, nperseg as well as automatic delta detection based on the given file.
 Even if the event ends, we are still extending the project to be as complete as possible and include more features in the future.
 
