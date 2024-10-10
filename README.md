@@ -1,8 +1,8 @@
 # SeismicDet: NASA Space Apps Challenge
 ## Please read the notes at the end of the repository
 In this repo, you will find the code we worked on for the project which contains the following:
-- The frontend
-- The model we are working on for processing the data and providing an approximation in the plot compared to actual results (You can inspect the code here and try it on the provided dataset provided by us)
+- The frontend.
+- The pre-processing algorithm for the given data (can be inspected in the preprocessing.ipynb notebook).
 
 
 # Background:
