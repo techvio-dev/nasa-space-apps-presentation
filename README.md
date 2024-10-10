@@ -37,6 +37,6 @@ Input page:
 
 
 # Notes:
-
+- The API is not well functional yet, we will work on it in the future to be completely working
 - In the preprocessing notebook, you will find some plots that are entirely in orange, those can be solved by adjusting the threshold, which will be automatically handled later
 - Due to known issues on the original NASA Space Apps dataset and to save time, we have provided a minimized dataset to test our preprocessing algorithm
